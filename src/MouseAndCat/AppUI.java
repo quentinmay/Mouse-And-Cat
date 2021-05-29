@@ -102,7 +102,7 @@ public class AppUI extends JFrame implements ActionListener  {
         Title Panel Setup
         */
         pnlTitle.setBackground(Color.YELLOW);
-        pnlTitle.add(new JLabel("Ricochet Ball by Quentin May"));
+        pnlTitle.add(new JLabel("Mouse And Cat by Quentin May"));
 
         /*
         Field Panel Setup
